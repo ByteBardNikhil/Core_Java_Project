@@ -15,5 +15,6 @@ Hence two or more threads will synchronize if they have one and only one object 
    lock at the same time?
    Ans.] The answer to this question is Yes.
    This is my Commit
+   This is Commit through Branch2
 
  
