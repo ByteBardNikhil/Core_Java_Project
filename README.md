@@ -14,5 +14,6 @@ Hence two or more threads will synchronize if they have one and only one object 
 5] The 5th program answers the Question --> Can a thread acquire multiple 
    lock at the same time?
    Ans.] The answer to this question is Yes.
+   This is my Commit
 
  
